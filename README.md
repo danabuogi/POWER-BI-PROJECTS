@@ -7,5 +7,5 @@ The dashboards helped to track real-time changes in operational risk and provide
 ## Crime dashboard
 ![CRIME DASHBOARD](https://user-images.githubusercontent.com/111515478/193401439-d4ecf68a-e242-4e59-b847-b1eea5446b8e.png)
 
-***NOTE: The whole thing is interactive and dynamic in Power BI Desktop and Power BI Service. Online link requires subscription.***
+***NOTE: The dashboard is interactive and dynamic in Power BI Desktop and Power BI Service. Online link requires subscription.***
 
